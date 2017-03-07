@@ -6,7 +6,7 @@ They then had to perform an analysis on the data set and output a tidy data set.
 
 ## Here are the steps that must be performed before running the R script:
 
-1. Download the zip file from this URL.
+1. Download the zip file from the above URL.
 2. Unzip the file.
 3. Move ALL of the following files to the SAME DIRECTORY as the R script:
   * features.txt
