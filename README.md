@@ -9,13 +9,13 @@ They then had to perform an analysis on the data set and output a tidy data set.
 1. Download the zip file from this URL.
 2. Unzip the file.
 3. Move ALL of the following files to the SAME DIRECTORY as the R script:
- *features.txt
- *subject_train.txt
- *subject_test.txt
- *X_train.txt
- *X_test.txt
- *y_train.txt
- *y_test.txt
+  * features.txt
+  * subject_train.txt
+  * subject_test.txt
+  * X_train.txt
+  * X_test.txt
+  * y_train.txt
+  * y_test.txt
 
 Now run the run_analysis.R script via source("run_analysis.R").
 Be aware that the reshape2 package is necessary for it to work properly.
